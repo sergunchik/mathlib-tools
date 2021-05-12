@@ -10,7 +10,7 @@ This package contains `leanproject`, a supporting tool for [Lean mathlib](https:
 
 In principle, you should install those tools as part of the 
 [global Lean installation procedure](https://leanprover-community.github.io/get_started.html#regular-install) recommended by the Lean community. 
-Read what what remains of this section only if you want more details
+Read what remains of this section only if you want more details
 about this specific part of the procedure (the tools described here won't give
 you anything if Lean itself is not available).
 
